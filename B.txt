@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 ###########Error######
 fixed it 
+=======
+Feature 1
+//Some login code with otp
+//100%
+
+
+>>>>>>> Stashed changes
 
 vinayak sardhar
 
